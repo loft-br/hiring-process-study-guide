@@ -1,6 +1,6 @@
 Hey!
 
-We hope that this guide help you to study and understand more about out process.
+We hope that this guide help you to study and understand more about our process.
 
 This guide is not mandatory for you to do our process, but it is a suggestion of topics that you can study to feel more prepared.
 
