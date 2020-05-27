@@ -1,0 +1,8 @@
+# Architecture
+
+In this interview you'll be given an entire business situation to be solved using high-level components such as services and databases for Backend and pages, style and components for Frontend. The scope of it will be an entire business scenario and will be expected to evaluate and explain trade-offs and choose between different solutions.
+
+## Helpful Links
+- https://github.com/donnemartin/system-design-primer
+- https://martinfowler.com/architecture/
+- https://aws.amazon.com/pt/architecture/
