@@ -5,7 +5,7 @@ One of the criteria we'll use to assess your code is algorithmic analysis (e.g. 
 
 ## Helpful Links
 ### General
-- https://github.com/trekhleb/javascript-algorithms
+- https://github.com/trekhleb/javascript-algorithms (for those who prefer video)
 
 ### Analysis of Algorithms
 - https://www.geeksforgeeks.org/analysis-of-algorithms-set-1-asymptotic-analysis/
