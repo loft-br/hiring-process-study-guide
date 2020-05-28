@@ -5,7 +5,7 @@ One of the criteria we'll use to assess your code is algorithmic analysis (e.g. 
 
 ## Helpful Links
 ### General
-- https://github.com/trekhleb/javascript-algorithms (for those who prefer video)
+- https://github.com/trekhleb/javascript-algorithms
 
 ### Analysis of Algorithms
 - https://www.geeksforgeeks.org/analysis-of-algorithms-set-1-asymptotic-analysis/
@@ -15,7 +15,7 @@ One of the criteria we'll use to assess your code is algorithmic analysis (e.g. 
 - https://www.geeksforgeeks.org/analysis-algorithm-set-4-master-method-solving-recurrences/
 - https://www.geeksforgeeks.org/analysis-algorithm-set-5-amortized-analysis-introduction/
 - https://www.geeksforgeeks.org/analysis-algorithms-big-o-analysis/
-- https://www.youtube.com/playlist?list=PLI1t_8YX-ApvFsH-DaFmAmdJboAnbg08P
+- https://www.youtube.com/playlist?list=PLI1t_8YX-ApvFsH-DaFmAmdJboAnbg08P (for those who prefer video)
 
 ### Basic algorithms
 - Sorts 
