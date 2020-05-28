@@ -40,4 +40,4 @@ One of the criteria we'll use to assess your code is algorithmic analysis (e.g. 
 - https://www.hackerrank.com/
 
 ## Helpful Books
-- Learning JavaScript Data Structures and Algorithms[(portuguese](https://www.amazon.com.br/Estruturas-dados-algoritmos-com-JavaScript-ebook/dp/B07P6SZJVQ/ref=asc_df_B07P6SZJVQ/) and [english](https://www.amazon.com.br/Learning-JavaScript-Data-Structures-Algorithms-ebook/dp/B077NB5H6Y/ref=pd_sbs_351_4/140-8222808-8166920)
+- Learning JavaScript Data Structures and Algorithms ([portuguese](https://www.amazon.com.br/Estruturas-dados-algoritmos-com-JavaScript-ebook/dp/B07P6SZJVQ/ref=asc_df_B07P6SZJVQ/) and [english](https://www.amazon.com.br/Learning-JavaScript-Data-Structures-Algorithms-ebook/dp/B077NB5H6Y/ref=pd_sbs_351_4/140-8222808-8166920))
