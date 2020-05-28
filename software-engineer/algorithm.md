@@ -4,14 +4,18 @@ In this interview you'll be given a problem to be solved using code. The scope o
 One of the criteria we'll use to assess your code is algorithmic analysis (e.g. runtime and space complexities, Big-O notation) and usage of data structures, so make sure you review those!
 
 ## Helpful Links
+### General
+- https://github.com/trekhleb/javascript-algorithms
+
 ### Analysis of Algorithms
-- https://www.geeksforgeeks.org/analysis-of-algorithms-set-1-asymptotic-analysis/?ref=lbp
-- https://www.geeksforgeeks.org/analysis-of-algorithms-set-2-asymptotic-analysis/?ref=lbp
-- https://www.geeksforgeeks.org/analysis-of-algorithms-set-3asymptotic-notations/?ref=lbp
-- https://www.geeksforgeeks.org/analysis-of-algorithms-set-4-analysis-of-loops/?ref=lbp
-- https://www.geeksforgeeks.org/analysis-algorithm-set-4-master-method-solving-recurrences/?ref=lbp
-- https://www.geeksforgeeks.org/analysis-algorithm-set-5-amortized-analysis-introduction/?ref=lbp
-- https://www.geeksforgeeks.org/analysis-algorithms-big-o-analysis/?ref=rp
+- https://www.geeksforgeeks.org/analysis-of-algorithms-set-1-asymptotic-analysis/
+- https://www.geeksforgeeks.org/analysis-of-algorithms-set-2-asymptotic-analysis/
+- https://www.geeksforgeeks.org/analysis-of-algorithms-set-3asymptotic-notations/
+- https://www.geeksforgeeks.org/analysis-of-algorithms-set-4-analysis-of-loops/
+- https://www.geeksforgeeks.org/analysis-algorithm-set-4-master-method-solving-recurrences/
+- https://www.geeksforgeeks.org/analysis-algorithm-set-5-amortized-analysis-introduction/
+- https://www.geeksforgeeks.org/analysis-algorithms-big-o-analysis/
+- https://www.youtube.com/playlist?list=PLI1t_8YX-ApvFsH-DaFmAmdJboAnbg08P
 
 ### Basic algorithms
 - Sorts 
@@ -34,3 +38,6 @@ One of the criteria we'll use to assess your code is algorithmic analysis (e.g. 
 - https://www.interviewbit.com/
 - https://leetcode.com/
 - https://www.hackerrank.com/
+
+## Helpful Books
+- Learning JavaScript Data Structures and Algorithms[(portuguese](https://www.amazon.com.br/Estruturas-dados-algoritmos-com-JavaScript-ebook/dp/B07P6SZJVQ/ref=asc_df_B07P6SZJVQ/) and [english](https://www.amazon.com.br/Learning-JavaScript-Data-Structures-Algorithms-ebook/dp/B077NB5H6Y/ref=pd_sbs_351_4/140-8222808-8166920)
