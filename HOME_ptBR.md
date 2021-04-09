@@ -1,8 +1,8 @@
 Hey!
 
-Esperamos que esse guia te ajude a entender melhor e se preparar para o nosso processo seletivo.
+Esperamos que esse guia lhe ajude a entender melhor e se preparar para o nosso processo seletivo.
 
-Esse guia não é obrigatório para todos os participantes do nosso processo, mas sim uma sugestão de tópicos para te ajudar a se sentir mais preparado para as nossas entrevistas.
+Esse guia não é obrigatório para todos os participantes do nosso processo, mas sim uma sugestão de tópicos para lhe ajudar a se sentir mais preparado para as nossas entrevistas.
 
 Para se juntar à Loft como um **Software Engineer**, recomendamos que vc:
 - [Se aplique para a vaga que faça mais sentido com o seu momento de carreira](https://jobs.lever.co/loft?department=Tech%20%26%20Product&team=Software%20Engineering)
