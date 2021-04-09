@@ -8,4 +8,4 @@ To join us as a **Software Engineer**, we recommed that you:
 - [Apply for the job](https://jobs.lever.co/loft?department=Tech%20%26%20Product&team=Software%20Engineering)
 - [See about all steps of our process](https://medium.com/loftbr/joining-loft-as-a-software-engineer-698f90a8e120)
 - [Read more content about our Engineering area](https://medium.com/loftbr/engineering/home)
-- At [*software-engineer*](https://github.com/loft-br/study-guide-hiring-process/tree/master/en_US/software-engineer) folder, you will find helpful links to study for each step
+- At [*software-engineer*](https://github.com/loft-br/study-guide-hiring-process/tree/master/software-engineer/en_US) folder, you will find helpful links to study for each step
