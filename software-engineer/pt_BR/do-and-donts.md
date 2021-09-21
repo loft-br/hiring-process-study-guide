@@ -17,7 +17,7 @@ Esta é uma lista direta e destilada de o que fazer e não fazer em entrevistas 
 | ✅ | Verifique se a webcam e o áudio estão funcionando. As entrevistas, em geral, serão realizadas pelo Zoom. Confira se ele está instalado e configurado corretamente.|
 | ✅ | Escolha a linguagem de programação que você tiver maior familiaridade. Não temos absolutamente nenhuma restrição nesse ponto! |
 | ✅ | Familiarize-se com o ambiente de codificação (CoderPad / CodePen / VSCode). Configure os atalhos de codificação, ative o preenchimento automático, espaçamento de tabulação, etc.
-| ✅ | Prepare algumas perguntas para sem feitas no final da entrevista. |
+| ✅ | Deixamos sempre 5 ou 10 minutos ao final de cada entrevista para responder perguntas de quem está sendo entrevistado. Caso tenha alguma coisa que queira saber sobre a empresa, rotina ou detalhes técnicos, é um excelente momento para perguntar isso!|
 | ✅ | Vista-se confortavelmente. Normalmente você não precisa usar roupas elegantes. |
 | ✅ | Procure se manter calmo, na medida do possível. Entendemos que uma entrevista não é o ambiente mas confortável do mundo, por isso, vamos te apoiar e tentar trazer o ambiente mais "leve" que pudermos. |
 | ⚠️ | Dê preferência por deixar a webcam ligada. Caso isso não seja possível ou seja desconfortável para você, não tem problema, é só falar com a pessoa entrevistadora sobre isso. |
