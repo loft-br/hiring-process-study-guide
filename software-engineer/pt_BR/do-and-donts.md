@@ -66,7 +66,7 @@ Esta é uma lista direta e destilada de o que fazer e não fazer em entrevistas 
 | ❌ | Fique em silêncio enquanto codifica. |
 | ❌ | Gaste muito tempo escrevendo comentários. |
 | ❌ | Copie e cole o código sem verificar (por exemplo, as variáveis ​​precisam ser renomeadas). |
-| ❌ | Interrompa o seu entrevistador quando ele estiver falando. Normalmente, se eles falam, estão tentando dar dicas ou guiá-lo na direção certa. |
+| ❌ | Interrompa a pessoa entrevistadora quando ela estiver falando. Normalmente, se elas falam, estão tentando dar dicas ou guiar você na direção certa. |
 
 ### Após a codificação
 
