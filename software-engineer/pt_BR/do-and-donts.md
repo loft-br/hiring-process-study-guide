@@ -1,6 +1,6 @@
 # Dicas do que fazer e o que não fazer durante as entrevistas
 
-Esta é uma lista direta e destilada de o que fazer e não fazer em entrevistas técnicas, principalmente para entrevistas algorítmicas. Alguns deles podem se aplicar apenas a entrevistas or vídeo ou entrevistas no quadro branco, mas a maioria se aplica a ambos. 
+Esta é uma lista com sugestões de o que fazer e não fazer nas nossas entrevistas técnicas.
 
 #### Leganda
 
