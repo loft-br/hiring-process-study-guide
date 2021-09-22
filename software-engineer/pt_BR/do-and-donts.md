@@ -76,7 +76,7 @@ Esta é uma lista com sugestões de o que fazer e não fazer nas nossas entrevis
 | ✅ | Crie casos de teste. Experimente casos de teste extremos - conjuntos vazios, conjuntos de item único, números negativos |
 | ✅ | Percorra seu código com esses casos de teste. |
 | ✅ | Procure lugares onde você pode refatorar. |
-| ✅ | Caso sinta-se a vontade e confiante, mencione sobre a complexidade de tempo e espaço de seu código. |
+| ✅ | Caso sinta-se à vontade e confiante, mencione sobre a complexidade de tempo e espaço de seu código. |
 | ✅ | Explique as compensações e como o código / abordagem pode ser melhorado se tiver mais tempo. |
 | ❌ | Anuncie imediatamente que você concluiu a codificação. Faça o anterior primeiro! |
 
