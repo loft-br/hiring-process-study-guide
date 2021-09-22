@@ -44,7 +44,7 @@ Esta é uma lista com sugestões de o que fazer e não fazer nas nossas entrevis
 | ✅ | Se estiver com dificuldades em prosseguir, pense nos problemas relacionados que você viu antes e como eles foram resolvidos. |
 | ❌ | Ignore as informações fornecidas a você. Cada peça é importante. |
 | ❌ | Passe para a codificação imediatamente. |
-| ❌ | Comece a codificar sem a luz verde da pessoa entrevistadora. |
+| ❌ | Comece a codificar sem o aval da pessoa entrevistadora. |
 | ❌ | Demonstre muita insegurança sobre sua abordagem ou análise. |
 
 ### Codifique sua solução
