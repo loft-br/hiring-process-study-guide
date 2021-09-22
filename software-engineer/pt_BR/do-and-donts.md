@@ -19,7 +19,7 @@ Esta é uma lista com sugestões de o que fazer e não fazer nas nossas entrevis
 | ✅ | Familiarize-se com o ambiente de codificação (CoderPad / CodePen / VSCode). Configure os atalhos de codificação, ative o preenchimento automático, espaçamento de tabulação, etc.
 | ✅ | Deixamos sempre de 5 a 10 minutos no final de cada entrevista para responder perguntas de quem está sendo entrevistado (sobre a empresa, rotina, detalhes técnicos etc). |
 | ✅ | Vista-se confortavelmente. Não é necessário usar roupas elegantes. |
-| ✅ | Procure se manter calmo, na medida do possível. Entendemos que uma entrevista não é o ambiente mas confortável do mundo, por isso, vamos te apoiar e tentar trazer o ambiente mais "leve" que pudermos. |
+| ✅ | Procure manter a calma, na medida do possível. Entendemos que uma entrevista não é a situação mais confortável do mundo. Por isso, vamos te apoiar e tentar trazer o ambiente mais "leve" que pudermos 🧡 |
 | ⚠️ | Dê preferência por deixar a webcam ligada. Caso isso não seja possível ou seja desconfortável para você, não tem problema, é só falar com a pessoa entrevistadora sobre isso. |
 
 ### Introdução
