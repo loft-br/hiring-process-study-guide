@@ -13,7 +13,7 @@ Esta é uma lista com sugestões de o que fazer e não fazer nas nossas entrevis
 | | Coisas |
 | --- | --- |
 | ✅ | Prepare caneta, papel e fones de ouvido. |
-| ✅ | Se possível, encontre um ambiente silencioso com boa conexão à Internet. Nós entendemos que nem todos os candidatos tem um ambiente calmo e tranquilo ou mesmo uma boa conexão de internet. |
+| ✅ | Dê preferência para um ambiente silencioso e com boa conexão à Internet. Mas se não for possível, tudo bem :) |
 | ✅ | Verifique se a webcam e o áudio estão funcionando. As entrevistas, em geral, serão realizadas pelo Zoom. Confira se ele está instalado e configurado corretamente.|
 | ✅ | Escolha a linguagem de programação que você tiver maior familiaridade. Não temos absolutamente nenhuma restrição nesse ponto! |
 | ✅ | Familiarize-se com o ambiente de codificação (CoderPad / CodePen / VSCode). Configure os atalhos de codificação, ative o preenchimento automático, espaçamento de tabulação, etc.
