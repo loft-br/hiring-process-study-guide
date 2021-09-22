@@ -56,7 +56,7 @@ Esta é uma lista com sugestões de o que fazer e não fazer nas nossas entrevis
 | ✅ | Digite / escreva a uma velocidade razoável. Muito lento não é bom. |
 | ✅ | Tanto quanto possível, escreva código compilável real, não pseudocódigo. |
 | ✅ | Escreva de forma modular. Extraia pedaços de código repetido em funções. |
-| ✅ | Peça permissão para usar funções triviais sem ter que implementá-las; você economiza algum tempo. |
+| ✅ | Você pode usar livremente os recursos nativos da linguagem (e até mesmo bibliotecas) para economizar tempo nos exercícios. |
 | ✅ | Use as dicas da pessoa entrevistadora. |
 | ✅ | Demonstre domínio da linguagem de programação escolhida. |
 | ✅ | Demonstrar conhecimento técnico em estruturas de dados e algoritmos. |
