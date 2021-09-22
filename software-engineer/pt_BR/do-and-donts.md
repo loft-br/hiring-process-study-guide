@@ -5,7 +5,7 @@ Esta é uma lista com sugestões de o que fazer e não fazer nas nossas entrevis
 #### Leganda
 
 - ✅ = Faça
-- ❌ = Não
+- ❌ = Não faça
 - ⚠️ = Situacional
 
 ### Antes da entrevista
@@ -26,8 +26,7 @@ Esta é uma lista com sugestões de o que fazer e não fazer nas nossas entrevis
 
 | | Coisas |
 | --- | --- |
-| ✅ | Apresente-se brevemente. |
-| ✅ | Mencione pontos interessantes que sejam relevantes para a função para a qual você está se candidatando. |
+| ✅ | Apresente-se brevemente. Não é necessário descrever toda sua tragetória profissional, pois, será abordada em uma etapa posterior. |
 | ✅ | Demonstre entusiasmo e você naturalmente parecerá mais envolvente. |
 | ❌ | Passe muito tempo se apresentando. Quanto mais tempo você gasta falando, menos tempo você tem para codificar. |
 
@@ -58,7 +57,6 @@ Esta é uma lista com sugestões de o que fazer e não fazer nas nossas entrevis
 | ✅ | Escreva de forma modular. Extraia pedaços de código repetido em funções. |
 | ✅ | Você pode usar livremente os recursos nativos da linguagem (e até mesmo bibliotecas) para economizar tempo nos exercícios. |
 | ✅ | Use as dicas da pessoa entrevistadora. |
-| ✅ | Demonstre domínio da linguagem de programação escolhida. |
 | ✅ | Demonstre conhecimento técnico em estruturas de dados e algoritmos. |
 | ✅ | Se você estiver abrindo caminho em seu código, diga isso em voz alta para quem estiver te entrevistando e diga o que você faria em um ambiente sem entrevista (sem restrições de tempo). Por exemplo, "Em um cenário de não-entrevista, eu escreveria um regex para analisar essa string em vez de usar `split()`, que pode não cobrir todos os casos." |
 | ✅ | Pratique habilidades de gerenciamento de espaço em quadro branco. |
@@ -92,7 +90,6 @@ Esta é uma lista com sugestões de o que fazer e não fazer nas nossas entrevis
 | | Coisas |
 | --- | --- |
 | ✅ | Anote as perguntas e respostas da entrevista, pois podem ser úteis para referência futura. |
-| ⚠️ | Envie um e-mail de acompanhamento ao (s) seu (s) entrevistador (es) agradecendo pelo tempo dispensado e pela oportunidade de entrevistá-los. |
 
 Esse conteúdo é uma adaptação [deste artigo](http://techinterviewhandbook.org/cheatsheet/), que pode ser acessado para dicas complementares (principalmente nos demais artigos do mesmo site).
 
