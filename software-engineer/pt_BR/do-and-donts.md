@@ -77,7 +77,7 @@ Esta é uma lista com sugestões de o que fazer e não fazer nas nossas entrevis
 | ✅ | Percorra seu código com esses casos de teste. |
 | ✅ | Procure lugares onde você pode refatorar. |
 | ✅ | Caso sinta-se à vontade e confiante, mencione sobre a complexidade de tempo e espaço de seu código. |
-| ✅ | Explique as compensações e como o código / abordagem pode ser melhorado se tiver mais tempo. |
+| ✅ | Explique as análises de trade-off e como o código / abordagem poderia ser melhorado se você tivesse mais tempo. |
 | ❌ | Anuncie imediatamente que você concluiu a codificação. Faça o anterior primeiro! |
 
 ### Finalizando
