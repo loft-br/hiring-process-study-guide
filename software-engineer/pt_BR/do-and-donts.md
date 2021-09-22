@@ -36,7 +36,7 @@ Esta é uma lista com sugestões de o que fazer e não fazer nas nossas entrevis
 | | Coisas |
 | --- | --- |
 | ✅ | Repita a pergunta para quem estiver te entrevistando, para confirmar que o entendimento está correto. |
-| ✅ | Esclareça quaisquer suposições que pareça inconscientemente. Muitas questões são subespecificadas propositalmente. Por exemplo, se perguntado como você implementaria um sistema de upload, questione possíveis "pontas soltas" em uma povável solução para um sistema de upload, como, por exemplo, quais formatos de arquivos serão permitidos. |
+| ✅ | Manifeste todas as pressuposições que você for assumir durante o exercício. Algumas questões deixam margem para interpretação de propósito. Por exemplo, se perguntado como você implementaria um sistema de upload, questione possíveis "pontas soltas" em uma provável solução, como, por exemplo, quais formatos de arquivos serão permitidos. |
 | ✅ | Esclareça o formato e o intervalo de entrada. Pergunte se a entrada pode ser considerada bem formada e não nula. |
 | ✅ | Trabalhe com um pequeno exemplo para garantir que você entendeu a pergunta. |
 | ✅ | Explique uma abordagem de alto nível, mesmo que seja de força bruta. |
