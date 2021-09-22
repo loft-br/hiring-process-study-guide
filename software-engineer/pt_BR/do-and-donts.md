@@ -60,7 +60,7 @@ Esta é uma lista com sugestões de o que fazer e não fazer nas nossas entrevis
 | ✅ | Use as dicas da pessoa entrevistadora. |
 | ✅ | Demonstre domínio da linguagem de programação escolhida. |
 | ✅ | Demonstre conhecimento técnico em estruturas de dados e algoritmos. |
-| ✅ | Se você estiver abrindo caminho em seu código, diga isso em voz alta para quem estiver te entrevistando e diga o que você faria em um ambiente sem entrevista (sem restrições de tempo). Por exemplo, "Em configurações de não entrevista, eu escreveria um regex para analisar essa string em vez de usar` split () `que pode não cobrir todos os casos." |
+| ✅ | Se você estiver abrindo caminho em seu código, diga isso em voz alta para quem estiver te entrevistando e diga o que você faria em um ambiente sem entrevista (sem restrições de tempo). Por exemplo, "Em um cenário de não-entrevista, eu escreveria um regex para analisar essa string em vez de usar `split()`, que pode não cobrir todos os casos." |
 | ✅ | Pratique habilidades de gerenciamento de espaço em quadro branco. |
 | ⚠️ | Codificação defensiva razoável. Verifique se há nulos, coleções vazias, etc. Pode omitir se a validade da entrada foi esclarecida com o entrevistador. |
 | ❌ | Fique em silêncio enquanto codifica. |
