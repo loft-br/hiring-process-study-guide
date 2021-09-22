@@ -85,7 +85,7 @@ Esta é uma lista com sugestões de o que fazer e não fazer nas nossas entrevis
 | | Coisas |
 | --- | --- |
 | ✅ | Pergunte. Mais importante ainda, faça perguntas boas e envolventes, feitas sob medida para a empresa! |
-| ❌  | Pergunte sobre o seu desempenho na entrevista. Sempre temos mais de uma pessoa entrevistando, ao término da entrevista essas pessoas se reúnem e trocam impressões para gerar um feedback. Esse feedback é consolidado com os das demais etapas e enviado a você, prometemos que fazemos isso rapidamente! |
+| ❌  | Pergunte sobre o seu desempenho na entrevista. Você receberá seu feedback compilado posteriormente, após juntarmos as impressões de todas as entrevistas aplicadas. Prometemos que fazemos isso rapidamente! |
 
 ### Após a entrevista
 
