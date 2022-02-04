@@ -6,4 +6,4 @@ Temos duas etapas obrigatórias para todas as pessoas que se aplicam:
 
 Além disso, temos uma etapa, também obrigatória, de especialidade, para a qual você deve escolher uma das seguintes opções:
 - [Arquitetura](03.software-architecture.md)
-- [Frontend](04.frontend-specialist.md)
+- [Frontend](04.frontend-skills.md)
